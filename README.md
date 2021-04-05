@@ -1,2 +1,2 @@
-# Loja-de-Instrumentos-Projeto-Faculdade-
+# LojaDeInstrumentos
 Loja de Instrumentos feita pelo netbeans, em java + interface
