@@ -1,2 +1,2 @@
-# LojaDeInstrumentos
-Loja de Instrumentos feita pelo netbeans, em java + interface
+#InstrumentStore
+Instrument Store made by netbeans, in java + interface
