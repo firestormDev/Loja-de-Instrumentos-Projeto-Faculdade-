@@ -1,2 +1,1 @@
-
-Instrument Store made by netbeans, in java + interface
+Music store made by netbeans, in java interface for college studies
